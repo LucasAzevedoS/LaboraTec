@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;600&display=swap');
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Rajdhani', sans-serif;
+}
+
+.textlogo {
+  color: rgb(23, 45, 226);
+  height: 150px;
+  font-size: 3vh;
+  display: flex;
+  margin-top: 1vh;
+  margin-left: 30vh;
+}
+
+.espaco {
+  margin-top: 7vh;
+}
+
+.sem {
+  list-style: none;
+  display: flex;
+  margin-left: 30vh;
+
+}
+
+li {
+  padding: 1vh;
+  font-size: 2vh;
+}
+
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+nav li {
+  margin-right: 1rem;
+}
+
+nav a {
+  display: block;
+  color: black;
+  text-decoration: none;
+  padding: 1rem;
+}
+
+nav a:hover {
+  background-color: rgb(100, 109, 156);
+}
+
+.main {
+  background-color: rgb(5, 16, 95);
+  width: auto;
+  height: 50vh;
+}
+
+.tilteprinc {
+  padding-top: 10vh;
+  color: white;
+  font-size: 4vh;
+  margin-left: 25vh;
+}
+
+.textprinc {
+  color: white;
+  margin-top: 1vh;
+  font-size: 3vh;
+  margin-left: 25vh;
+ text-align: justify;
+}
+
+.textsus{
+  margin-left: 25vh;
+  color: rgb(5, 16, 95);
+  margin-top: 10vh;
+  font-size: 3vh;
+  display: inline-block;
+}
+
+.textsuss{
+  margin-left: 25vh;
+  color: rgb(5, 16, 95);
+  font-size: 3vh;
+  display: inline-block;
+}
+
+.container {
+  width: 100%;
+  overflow: hidden;
+}
+
+.text-container {
+  width: 60%;
+  float: left;
+}
+
+.divimg {
+  float: right;
+  width: 35%;
+}
+
+.teste{
+  font-size: 2vh;
+  margin-left: 25vh;
+  margin-top: 3vh;
+}
+.flex{
+  display: flex;
+}
+
+.img {
+  height: 8vh;
+
+}
+
+
+
+
+
+
+
+
