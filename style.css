@@ -112,6 +112,8 @@ nav a:hover {
 }
 .flex{
   display: flex;
+ 
+  margin-left: 21%;
 }
 
 .img {
@@ -120,8 +122,29 @@ nav a:hover {
 }
 
 .imgagua{
-  height: 30rem;
+  width: 20rem;
+  height: auto;
 }
+
+.textoagua{
+  width: 20rem;
+}
+
+.margem{
+  margin-top: 2rem;
+  margin-left: 15rem;
+  margin-right: 15rem;
+  display: flex ;
+  text-align: center;
+}
+
+.img-wrapper {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  padding: 2rem;  
+}
+
+
+
 
 
 
