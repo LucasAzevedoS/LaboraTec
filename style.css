@@ -6,6 +6,10 @@ body {
   font-family: 'Rajdhani', sans-serif;
 }
 
+ul{
+  list-style: none;
+}
+
 .textlogo {
   color: rgb(23, 45, 226);
   height: 150px;
@@ -141,6 +145,14 @@ nav a:hover {
 .img-wrapper {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
   padding: 2rem;  
+}
+
+.espacoo {
+  margin-left: 15rem;
+}
+
+.espacoul {
+  margin-left: 12rem;
 }
 
 
